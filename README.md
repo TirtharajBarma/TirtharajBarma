@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Book-Store-WebApp](https://github.com/TirtharajBarma/Book-Store-webApp.git)
 
-- 📫 How to reach me **tirtharajbarma3@gmail.com**
+- 📫 How to reach me **barmatirtharaj3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
