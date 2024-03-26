@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tirtharaj Barma</h1>
 <h3 align="center">A passionate MERN Stack developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tirtharajbarma" alt="tirtharajbarma" /></a> </p>
 
 - 🔭 I’m currently working on [Travel-tour-WebApp](https://github.com/TirtharajBarma/Travel-Tour-Website.git)
 
