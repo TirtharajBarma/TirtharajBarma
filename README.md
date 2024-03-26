@@ -25,6 +25,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tirtharajbarma&show_icons=true&locale=en&layout=compact" alt="tirtharajbarma" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tirtharajbarma&show_icons=true&locale=en" alt="tirtharajbarma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tirtharajbarma&" alt="tirtharajbarma" /></p>
