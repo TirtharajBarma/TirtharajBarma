@@ -1,7 +1,4 @@
 
-
-
-
 # 💫 About Me:
 🔭 I’m currently working on Book-Store Web Application that provides an online platform for browsing and purchasing books.<br>👯 I’m looking to collaborate on web development and any innovative tech solutions! <br>🌱 I’m currently mastering React for building dynamic web interfaces.<br>💬 Ask me about anything related to web development, or any of the technologies I’m learning!<br>⚡ Fun fact : Did you know that honey never spoils? Archaeologists have discovered pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible!<br>
 
